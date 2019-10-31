@@ -5,5 +5,6 @@ Right now we are using a more precisely sensor wich works better with the UnLimb
 
 To view a guide on how to manufacture this prosthetic with the SRF01 sensor, see [the wiki](https://github.com/enable-medellin/Distance-Sensing-Arm-Prosthetic-Prototype/wiki/MK1-Prototype).
 
-To view the guide for the new design using the newest sensor and the vibrating motor, see the [Distance-Sensing-Arm-Second-Version]
+To view the guide for the new design using the newest sensor and the vibrating motor, see the [Distance-Sensing-Arm-Second-Version](https://github.com/enable-medellin/Distance-Sensing-Arm-Prosthetic-Prototype/wiki/Second-Version).
+
 ![Display photo ](https://github.com/enable-medellin/Distance-Sensing-Arm-Prosthetic-Prototype/blob/master/wiki_images/8AA4E076-EF3A-4C2A-95B5-CDBC6AFDECA1.jpeg)
